@@ -1,0 +1,15 @@
+table
+{
+    border-collapse: collapse; /* commentaire Les bordures du tableau sont collées */
+}
+td
+{
+    border: thick double grey
+}
+th{
+    border: thick double grey
+}
+caption
+{
+    font-weight: bold;
+}
